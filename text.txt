@@ -1,15 +1,3 @@
-2023-11-20 14:33:15.174278 - The script ran  
-2023-11-20 14:35:24.184663 - The script ran 
-2023-11-20 14:40:23.194252 - The script ran 
-2023-11-20 14:45:23.204378 - The script ran 
-2023-11-20 14:50:23.213542 - The script ran 
-2023-11-20 14:55:23.220560 - The script ran 
-2023-11-20 15:00:23.230576 - The script ran 
-2023-11-20 15:05:23.260746 - The script ran 
-2023-11-20 15:10:23.234956 - The script ran 
-2023-11-20 15:15:23.252343 - The script ran 
-
-
 2023-11-20 15:25:23.283472 - The script ran 
 2023-11-20 15:30:23.333988 - The script ran 
 2023-11-20 15:35:23.408513 - The script ran 
@@ -36,12 +24,9 @@
 2023-11-22 21:21:25.762979 - The script ran 
 2023-11-23 20:07:25.718129 - The script ran 
 2023-11-23 20:07:33.510804 - The script ran 
-2023-11-23 20:07:41.190993 - The script ran 
-2023-11-23 20:07:48.933744 - The script ran 
-2023-11-25 00:35:02.624896 - The script ran 
-2023-11-25 00:35:08.489647 - The script ran 
-2023-11-25 00:35:14.265286 - The script ran 
-2023-11-25 00:35:20.133552 - The script ran 
-2023-11-25 00:35:41.709089 - The script ran 
-2023-11-25 00:35:49.121879 - The script ran 
-2023-11-25 00:35:56.324331 - The script ran 
+2023-11-23 20:07:41.190993 - The script ran
+2023-11-23 21:17:32.281331 - The script ran
+2023-11-23 21:17:38.774244 - The script ran
+2023-11-23 21:17:45.250835 - The script ran
+2023-11-23 21:17:51.737198 - The script ran
+2023-11-23 21:17:58.212835 - The script ran
